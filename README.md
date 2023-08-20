@@ -5,13 +5,7 @@ Welcome to my Java repository!
 
 This project documents my journey into the world of Java programming. I was inspired to this language thanks to the iconic game Minecraft. Realizing that Minecraft's core mechanics relied on the Java programming language sparked curiosity within me. This path ultimately helped me acquire the fundamental skills necessary to program not just in Java, but for other languages as well. Here, you'll see my progression, code samples, and resources as I study Java.
 
-## Repository Content
-Here's a glimpse of what you can find here:
-
-Code Samples: I've documented my progress with Java by creating various code samples. From basic "Hello World" to more complex programs such as a Blackjack where you can play against a computer.
-
-Learning Resources: Along the way, I've compiled a list of invaluable resources that have helped me in my Java learning adventure. If you're a novice, these resources might provide guidance and insights into Java.  
-  [Bro Code Tutorial](https://www.youtube.com/watch?v=xk4_1vDrzzo) - great for review, and extra practice programs
+I've documented my progress with Java by creating various code samples (see folders for reference). From basic "Hello World" to more complex programs such as a Blackjack where you can play against a computer.
 
 ## Final Reflection:
 
