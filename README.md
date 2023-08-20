@@ -1,5 +1,5 @@
 # java-fundamentals
-Welcome to my Java repository! 
+Welcome to my Java repository! All code was written and compiled in BlueJ IDE, written by me.
 
 ## Introduction
 
