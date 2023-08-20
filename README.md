@@ -11,7 +11,7 @@ Here's a glimpse of what you can find here:
 Code Samples: I've documented my progress with Java by creating various code samples. From basic "Hello World" to more complex programs such as a Blackjack where you can play against a computer.
 
 Learning Resources: Along the way, I've compiled a list of invaluable resources that have helped me in my Java learning adventure. If you're a novice, these resources might provide guidance and insights into Java.  
-[Bro Code Tutorial](https://www.youtube.com/watch?v=xk4_1vDrzzo) - great for review, and extra practice programs
+  [Bro Code Tutorial](https://www.youtube.com/watch?v=xk4_1vDrzzo) - great for review, and extra practice programs
 
 ## Final Reflection:
 
